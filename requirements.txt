@@ -1,0 +1,7 @@
+streamlit
+Pillow
+folium
+streamlit-folium
+pandas
+fpdf2
+requests
